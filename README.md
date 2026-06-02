@@ -19,13 +19,15 @@
 
 **❌ 直接运行一个 Skill(黑盒):** 它闷头跑两分钟,直接把结果甩给你——你不知道它干了啥、也没机会插手。
 
-![直接黑盒运行](docs/before-blackbox.png)
+<img src="docs/before-blackbox.png" width="600" alt="直接黑盒运行的截图">
 
 **✅ 用说人话运行同一个 Skill:** 先讲清它是干嘛、能做 / 不能做,再把内部流程拆开给你看,关键处停下来等你拍板。
 
-![先讲清是干嘛、能做不能做](docs/after-1-explain.jpg)
+<img src="docs/after-1-explain.jpg" width="600" alt="说人话:讲清是干嘛、能做不能做">
 
-![把内部流程拆黑盒:每步来源 + 为什么](docs/after-2-deblackbox.jpg)
+<img src="docs/after-2-deblackbox.jpg" width="600" alt="说人话:把内部流程拆黑盒">
+
+> （截图较宽,点击可放大看清。）
 
 ## 它和"直接运行"到底差在哪
 
