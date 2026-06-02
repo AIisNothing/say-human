@@ -64,6 +64,12 @@
 git clone https://github.com/AIisNothing/say-human.git ~/.claude/skills/say-human
 ```
 
+**更新到最新版**(以后修了 bug,拉一下就有):
+
+```
+cd ~/.claude/skills/say-human && git pull
+```
+
 ## 怎么用
 
 一句话就行:
