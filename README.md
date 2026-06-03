@@ -21,15 +21,17 @@
 
 <img src="docs/before-blackbox.png" width="600" alt="直接黑盒运行的截图">
 
-**✅ 让包工头运行同一个 Skill:** 先讲清它是干嘛、能做 / 不能做,再把内部流程拆开给你看,关键处停下来等你拍板。
+**✅ 让包工头运行同一个 Skill:** 它先用大白话跟你**交底**——这 Skill 是干嘛的、能接什么活 / 不接什么:
 
-<img src="docs/after-1-explain.jpg" width="600" alt="包工头:讲清是干嘛、能做不能做">
+<img src="docs/after-1.png" width="600" alt="包工头:交底——这 Skill 干啥、能接什么活">
 
-<img src="docs/after-2-deblackbox.jpg" width="600" alt="包工头:把内部流程拆黑盒">
+接着把能力档位、可选风格、还有"会动你机器上什么"的**安全风险**都摊开说清楚:
 
-到**关键决策**(配什么图、什么风格这类),它会先讲清安全风险,再**停下来问你**,而不是替你拍板:
+<img src="docs/after-2.png" width="600" alt="包工头:能力档位、风格、安全提醒">
 
-<img src="docs/after-3-keydecision.jpg" width="600" alt="包工头:讲清安全风险 + 在关键决策处停下来问你">
+再把**整个流程拆给你看**、标出哪几步要你拍板,然后**问你要素材**才开干:
+
+<img src="docs/after-3.png" width="600" alt="包工头:流程地图(标出关键决策)+ 问你要素材">
 
 > （截图较宽,点击可放大看清。）
 
