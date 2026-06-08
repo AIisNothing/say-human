@@ -6,6 +6,8 @@
 
 > 📖 想看更完整的来龙去脉和设计思路,可以读这篇长文:[《我做了个最懒的 Skill,专门盯着别的 Skill 干活》](https://mp.weixin.qq.com/s/V_un4iN_I3z5N1ZpY1gFKA)
 
+> **English TL;DR** — **Foreman** is a Claude Code skill that supervises *other* skills. Instead of a skill running as a black box and dumping a result, Foreman first explains what the target skill does and needs, walks you through it step by step, and stops at the few key decisions to ask you — so you keep control. One line: *let AI do the work, keep the control for yourself.*
+
 ## 为什么做这个
 
 现在大多数 Skill 跑起来都是**黑盒**:你发一句指令,它闷头跑一阵,直接甩给你一个结果。中间它在干什么、读了哪些文件、按什么逻辑走、哪几步其实你本可以做主——你统统看不到,也插不上手。
